@@ -9,9 +9,6 @@ body {
 	-webkit-flex-direction: column;
 	-ms-flex-direction: column;
 	flex-direction: column;
-
-
-	text-rendering: optimizeLegibility;
 }
 
 main {
@@ -31,5 +28,6 @@ h1, h2, h3, h4, h5 {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover
+	background-size: cover;
+
 }
