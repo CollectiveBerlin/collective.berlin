@@ -9,9 +9,12 @@ body {
 	-webkit-flex-direction: column;
 	-ms-flex-direction: column;
 	flex-direction: column;
+<<<<<<< HEAD
 
 
 	text-rendering: optimizeLegibility;
+=======
+>>>>>>> master
 }
 
 main {
@@ -31,5 +34,10 @@ h1, h2, h3, h4, h5 {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+<<<<<<< HEAD
 	background-size: cover
+=======
+	background-size: cover;
+
+>>>>>>> master
 }
